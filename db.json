@@ -1,4 +1,5 @@
 {
+
   "posts": [
     { "id": 1, "title": "Post 1", 
     "myDateTime": "2018-12-10T13:45:00.000Z" },
@@ -6,12 +7,6 @@
     "myDateTime": "2018-12-10T13:45:00.000Z" },
     { "id": 3, "title": "Post 3", 
     "myDateTime": "2018-12-10T13:45:00.000Z" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+
 }
