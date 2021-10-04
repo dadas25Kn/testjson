@@ -1,20 +1,11 @@
 {
-    "ContractID": "203-17-DC0101-00003-10011",
-    "Supplier":"Sample Co., Ltd",
-    "Value":12345.80,
-    "Curency":"USD",
-    "StartDate": {
-                "__type": "Date",
-                "iso": "2017-08-22T06:11:00.000Z"
-            }
-}
-{
   "posts": [
-    { "id": 1, "title": "Post 1":"StartDate": {
-                "__type": "Date",
-                "iso": "2017-08-22T06:11:00.000Z" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", 
+    "myDateTime": "2018-12-10T13:45:00.000Z" },
+    { "id": 2, "title": "Post 2", 
+    "myDateTime": "2018-12-10T13:45:00.000Z" },
+    { "id": 3, "title": "Post 3", 
+    "myDateTime": "2018-12-10T13:45:00.000Z" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
